@@ -2,9 +2,7 @@
 
 ## I'm a Software Developer
 
-- I'm currently working on AbInbev as Android Developer
-- I'm currently learning Flutter
-- I'm looking to teach Flutter in my own platform
+- I'm currently working on AbInbev as Flutter Developer
 
 ### Connect with me:
 
